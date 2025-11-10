@@ -20,4 +20,4 @@ elif avg >= 50:
     print("Grade: E")
 else :
     print("Grade: F")
-
+print ("average marks =",avg)
